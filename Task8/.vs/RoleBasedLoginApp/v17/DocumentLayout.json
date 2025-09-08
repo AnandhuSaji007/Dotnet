@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Task8 dummy\\RoleBasedLoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|d:\\task8 dummy\\rolebasedloginapp\\rolebasedloginapp\\views\\home\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|solutionrelative:rolebasedloginapp\\views\\home\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|d:\\task8 dummy\\rolebasedloginapp\\rolebasedloginapp\\views\\home\\manager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|solutionrelative:rolebasedloginapp\\views\\home\\manager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|d:\\task8 dummy\\rolebasedloginapp\\rolebasedloginapp\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|solutionrelative:rolebasedloginapp\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|d:\\task8 dummy\\rolebasedloginapp\\rolebasedloginapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|solutionrelative:rolebasedloginapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|d:\\task8 dummy\\rolebasedloginapp\\rolebasedloginapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|solutionrelative:rolebasedloginapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|d:\\task8 dummy\\rolebasedloginapp\\rolebasedloginapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|solutionrelative:rolebasedloginapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|d:\\task8 dummy\\rolebasedloginapp\\rolebasedloginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|solutionrelative:rolebasedloginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|d:\\task8 dummy\\rolebasedloginapp\\rolebasedloginapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|solutionrelative:rolebasedloginapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|d:\\task8 dummy\\rolebasedloginapp\\rolebasedloginapp\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|solutionrelative:rolebasedloginapp\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|d:\\task8 dummy\\rolebasedloginapp\\rolebasedloginapp\\rolebasedloginapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|solutionrelative:rolebasedloginapp\\rolebasedloginapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|d:\\task8 dummy\\rolebasedloginapp\\rolebasedloginapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|solutionrelative:rolebasedloginapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|d:\\task8 dummy\\rolebasedloginapp\\rolebasedloginapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|solutionrelative:rolebasedloginapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|d:\\task8 dummy\\rolebasedloginapp\\rolebasedloginapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{350FF4B4-F911-4A92-9B14-ECD520F3B681}|RoleBasedLoginApp\\RoleBasedLoginApp.csproj|solutionrelative:rolebasedloginapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cshtml",
+              "DocumentMoniker": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Views\\Home\\Employee.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedLoginApp\\Views\\Home\\Employee.cshtml",
+              "ToolTip": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Views\\Home\\Employee.cshtml",
+              "RelativeToolTip": "RoleBasedLoginApp\\Views\\Home\\Employee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T12:41:38.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cshtml",
+              "DocumentMoniker": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Views\\Home\\Manager.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedLoginApp\\Views\\Home\\Manager.cshtml",
+              "ToolTip": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Views\\Home\\Manager.cshtml",
+              "RelativeToolTip": "RoleBasedLoginApp\\Views\\Home\\Manager.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T12:41:05.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedLoginApp\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "RoleBasedLoginApp\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T12:40:19.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RoleBasedLoginApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "RoleBasedLoginApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T12:38:23.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RoleBasedLoginApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:29:17.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginApp\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RoleBasedLoginApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:22:00.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Program.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginApp\\Program.cs",
+              "ToolTip": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Program.cs",
+              "RelativeToolTip": "RoleBasedLoginApp\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:20:34.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginApp\\Services\\UserService.cs",
+              "ToolTip": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Services\\UserService.cs",
+              "RelativeToolTip": "RoleBasedLoginApp\\Services\\UserService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:20:13.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginApp\\Services\\IUserService.cs",
+              "ToolTip": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Services\\IUserService.cs",
+              "RelativeToolTip": "RoleBasedLoginApp\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:18:54.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleBasedLoginApp",
+              "DocumentMoniker": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\RoleBasedLoginApp.csproj",
+              "RelativeDocumentMoniker": "RoleBasedLoginApp\\RoleBasedLoginApp.csproj",
+              "ToolTip": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\RoleBasedLoginApp.csproj*",
+              "RelativeToolTip": "RoleBasedLoginApp\\RoleBasedLoginApp.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-08T12:18:29.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginApp\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "RoleBasedLoginApp\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:18:01.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginApp\\Models\\UserModel.cs",
+              "ToolTip": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\Models\\UserModel.cs",
+              "RelativeToolTip": "RoleBasedLoginApp\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:17:29.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\appsettings.json",
+              "RelativeDocumentMoniker": "RoleBasedLoginApp\\appsettings.json",
+              "ToolTip": "D:\\Task8 dummy\\RoleBasedLoginApp\\RoleBasedLoginApp\\appsettings.json",
+              "RelativeToolTip": "RoleBasedLoginApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T12:16:51.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

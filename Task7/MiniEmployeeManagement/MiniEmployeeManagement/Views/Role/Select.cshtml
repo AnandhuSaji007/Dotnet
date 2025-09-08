@@ -1,0 +1,9 @@
+﻿@{
+    ViewData["Title"] = "Select Role";
+}
+<h2>Select your role</h2>
+<div>
+    <a class="btn btn-primary" href="@Url.Page("/Account/Login", new { area = "Identity", role = "Admin" })">Admin</a>
+    <a class="btn btn-primary" href="@Url.Page("/Account/Login", new { area = "Identity", role = "Manager" })">Manager</a>
+    <a class="btn btn-primary" href="@Url.Page("/Account/Login", new { area = "Identity", role = "Employee" })">Employee</a>
+</div>

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EmsTask7\\MiniEmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|d:\\emstask7\\miniemployeemanagement\\miniemployeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|solutionrelative:miniemployeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|d:\\emstask7\\miniemployeemanagement\\miniemployeemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|solutionrelative:miniemployeemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|d:\\emstask7\\miniemployeemanagement\\miniemployeemanagement\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|solutionrelative:miniemployeemanagement\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|d:\\emstask7\\miniemployeemanagement\\miniemployeemanagement\\miniemployeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|solutionrelative:miniemployeemanagement\\miniemployeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|d:\\emstask7\\miniemployeemanagement\\miniemployeemanagement\\views\\role\\select.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|solutionrelative:miniemployeemanagement\\views\\role\\select.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|d:\\emstask7\\miniemployeemanagement\\miniemployeemanagement\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|solutionrelative:miniemployeemanagement\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|d:\\emstask7\\miniemployeemanagement\\miniemployeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|solutionrelative:miniemployeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|d:\\emstask7\\miniemployeemanagement\\miniemployeemanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|solutionrelative:miniemployeemanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|d:\\emstask7\\miniemployeemanagement\\miniemployeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEBBC3F-D41F-4D3D-9102-46344F71A2A0}|MiniEmployeeManagement\\MiniEmployeeManagement.csproj|solutionrelative:miniemployeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MiniEmployeeManagement\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MiniEmployeeManagement\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-08T06:29:11.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Select.cshtml",
+              "DocumentMoniker": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\Views\\Role\\Select.cshtml",
+              "RelativeDocumentMoniker": "MiniEmployeeManagement\\Views\\Role\\Select.cshtml",
+              "ToolTip": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\Views\\Role\\Select.cshtml",
+              "RelativeToolTip": "MiniEmployeeManagement\\Views\\Role\\Select.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T06:25:33.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "MiniEmployeeManagement\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "MiniEmployeeManagement\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:24:15.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "MiniEmployeeManagement\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "MiniEmployeeManagement\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAzwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:23:09.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "MiniEmployeeManagement\\Program.cs",
+              "ToolTip": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\Program.cs",
+              "RelativeToolTip": "MiniEmployeeManagement\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:17:24.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiniEmployeeManagement",
+              "DocumentMoniker": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\MiniEmployeeManagement.csproj",
+              "RelativeDocumentMoniker": "MiniEmployeeManagement\\MiniEmployeeManagement.csproj",
+              "ToolTip": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\MiniEmployeeManagement.csproj*",
+              "RelativeToolTip": "MiniEmployeeManagement\\MiniEmployeeManagement.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-08T06:13:27.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MiniEmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MiniEmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:14:09.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MiniEmployeeManagement\\Models\\Employee.cs",
+              "ToolTip": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "MiniEmployeeManagement\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:12:55.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "MiniEmployeeManagement\\appsettings.json",
+              "ToolTip": "D:\\EmsTask7\\MiniEmployeeManagement\\MiniEmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "MiniEmployeeManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T06:11:56.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

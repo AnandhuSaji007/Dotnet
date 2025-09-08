@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FastApitask\\StudentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{405BE12D-9623-4E47-BE8C-A8F6DA3591F9}|StudentApi\\StudentApi.csproj|d:\\fastapitask\\studentapi\\studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405BE12D-9623-4E47-BE8C-A8F6DA3591F9}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405BE12D-9623-4E47-BE8C-A8F6DA3591F9}|StudentApi\\StudentApi.csproj|d:\\fastapitask\\studentapi\\studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405BE12D-9623-4E47-BE8C-A8F6DA3591F9}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405BE12D-9623-4E47-BE8C-A8F6DA3591F9}|StudentApi\\StudentApi.csproj|d:\\fastapitask\\studentapi\\studentapi\\data\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405BE12D-9623-4E47-BE8C-A8F6DA3591F9}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\data\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405BE12D-9623-4E47-BE8C-A8F6DA3591F9}|StudentApi\\StudentApi.csproj|d:\\fastapitask\\studentapi\\studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{405BE12D-9623-4E47-BE8C-A8F6DA3591F9}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\FastApitask\\StudentApi\\StudentApi\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\FastApitask\\StudentApi\\StudentApi\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentApi\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:58:05.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\FastApitask\\StudentApi\\StudentApi\\Data\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Data\\StudentRepository.cs",
+              "ToolTip": "D:\\FastApitask\\StudentApi\\StudentApi\\Data\\StudentRepository.cs",
+              "RelativeToolTip": "StudentApi\\Data\\StudentRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:57:02.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentApi.csproj",
+              "DocumentMoniker": "D:\\FastApitask\\StudentApi\\StudentApi\\StudentApi.csproj",
+              "RelativeDocumentMoniker": "StudentApi\\StudentApi.csproj",
+              "ToolTip": "D:\\FastApitask\\StudentApi\\StudentApi\\StudentApi.csproj",
+              "RelativeToolTip": "StudentApi\\StudentApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T10:56:34.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\FastApitask\\StudentApi\\StudentApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentApi\\Models\\Student.cs",
+              "ToolTip": "D:\\FastApitask\\StudentApi\\StudentApi\\Models\\Student.cs",
+              "RelativeToolTip": "StudentApi\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:55:13.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

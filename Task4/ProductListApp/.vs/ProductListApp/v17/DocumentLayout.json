@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Aspnet2\\ProductListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{608A4490-C974-401E-8D4F-C156746FBC53}|ProductListApp\\ProductListApp.csproj|d:\\aspnet2\\productlistapp\\productlistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608A4490-C974-401E-8D4F-C156746FBC53}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608A4490-C974-401E-8D4F-C156746FBC53}|ProductListApp\\ProductListApp.csproj|d:\\aspnet2\\productlistapp\\productlistapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608A4490-C974-401E-8D4F-C156746FBC53}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608A4490-C974-401E-8D4F-C156746FBC53}|ProductListApp\\ProductListApp.csproj|d:\\aspnet2\\productlistapp\\productlistapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608A4490-C974-401E-8D4F-C156746FBC53}|ProductListApp\\ProductListApp.csproj|solutionrelative:productlistapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aspnet2\\ProductListApp\\ProductListApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductListApp\\Program.cs",
+              "ToolTip": "D:\\Aspnet2\\ProductListApp\\ProductListApp\\Program.cs",
+              "RelativeToolTip": "ProductListApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:53:24.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Aspnet2\\ProductListApp\\ProductListApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductListApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Aspnet2\\ProductListApp\\ProductListApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductListApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:31:18.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Aspnet2\\ProductListApp\\ProductListApp\\Product.cs",
+              "RelativeDocumentMoniker": "ProductListApp\\Product.cs",
+              "ToolTip": "D:\\Aspnet2\\ProductListApp\\ProductListApp\\Product.cs",
+              "RelativeToolTip": "ProductListApp\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:29:38.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
